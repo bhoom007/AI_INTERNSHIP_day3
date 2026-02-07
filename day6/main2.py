@@ -9,3 +9,4 @@ numbers = [10, 20, 30, 40]
 
 avg_result = math_operations.average(numbers)
 print("Average of the numbers is:", avg_result)
+
