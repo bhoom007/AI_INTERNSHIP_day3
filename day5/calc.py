@@ -4,3 +4,4 @@ class calculation:
 
     def product(self, x, y):
         return x * y
+
